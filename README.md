@@ -1,6 +1,6 @@
 # Tokenetics Tools Suite
 
-Welcome to the **Tools Suite** — a curated collection of powerful, open-source utilities designed for developers, security researchers, and tech enthusiasts. This suite embodies the spirit of freedom, privacy, and efficiency in the digital age.
+Welcome to the **Tokenetics Tools Suite** — a curated collection of powerful, open-source utilities designed for developers, security researchers, and tech enthusiasts. This suite embodies the spirit of freedom, privacy, and efficiency in the digital age.
 
 
 ## 🚀 Features
@@ -62,7 +62,7 @@ This project is licensed under the MIT License.
 
 ## 🧑‍💻 About
 
-KingRaver Tools Suite is maintained by [KingRaver](https://github.com/KingRaver). Join us in building tools that empower users and protect digital freedom[1].
+KingRaver Tools Suite is maintained by [KingRaver](https://github.com/KingRaver). Join us in building tools that empower users and protect digital freedom.
 
 ## ⭐️ Show Your Support
 

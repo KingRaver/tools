@@ -1,8 +1,7 @@
-# KingRaver Tools Suite
+# Tokenetics Tools Suite
 
-Welcome to the **KingRaver Tools Suite** — a curated collection of powerful, open-source utilities designed for developers, security researchers, and tech enthusiasts. This suite embodies the spirit of freedom, privacy, and efficiency in the digital age.
+Welcome to the **Tools Suite** — a curated collection of powerful, open-source utilities designed for developers, security researchers, and tech enthusiasts. This suite embodies the spirit of freedom, privacy, and efficiency in the digital age.
 
-> *"In a world of surveillance, cryptography is resistance. Your keys, your kingdom — your code, your freedom."* — KingRaver[1]
 
 ## 🚀 Features
 
@@ -70,15 +69,3 @@ KingRaver Tools Suite is maintained by [KingRaver](https://github.com/KingRaver)
 If you find this suite useful, please star the repository and share it with your network!
 
 *Your keys, your kingdom — your code, your freedom.*
-
-[1] https://github.com/KingRaver
-[2] https://github.com/KingRaver/tools/tree/main
-[3] https://github.com/girs1982/King-Grabber
-[4] https://github.com/prabin855/king-tool
-[5] https://github.com/topics/engraver?l=c%2B%2B&o=asc&s=updated
-[6] https://github.com/IvanDSM/KingsFieldRE
-[7] https://github.com/MegatronKing/ActivityLaunchAnalyzer
-[8] https://github.com/iandouglas96/engravR
-[9] https://github.com/KING
-[10] https://github.com/king-hacking/King-Hacking/blob/master/King-Tools.sh
-[11] https://github.com/FiCacador/Tlaser
